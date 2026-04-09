@@ -1,1 +1,1 @@
-https://victoriasokolova2000-art.github.io/zakrivayuschiy-teg-f/
+https://github.com/victoriasokolova2000-art/zakrivayuschiy-teg-f
