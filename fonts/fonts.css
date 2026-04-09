@@ -6,9 +6,9 @@
 }
 
 @font-face {
-    font-family: Intel-Variable;
+    font-family: 'Intel-Variable';
     src: local('Intel-Variable'),
-        url(../fonts/Inter-Variable.woff2) format('woff2 suppots variation'),
+        url(../fonts/Inter-Variable.woff2) format('woff2 supports variation'),
         url(../fonts/Inter-Variable.woff2) format('woff2-variation');
     font-weight: 410 715;
     display: wrap;
