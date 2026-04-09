@@ -9,7 +9,7 @@
     font-family: 'Intel-Variable';
     src: local('Intel-Variable'),
         url(../fonts/Inter-Variable.woff2) format('woff2 supports variation'),
-        url(../fonts/Inter-Variable.woff2) format('woff2-variation');
-    font-weight: 410 715;
+        url(../fonts/Inter-Variable.woff2) format('woff2-variations');
+    font-weight: 400 785;
     display: wrap;
 }

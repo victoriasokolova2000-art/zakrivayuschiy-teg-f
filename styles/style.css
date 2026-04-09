@@ -70,7 +70,7 @@
   z-index: 1;
   font-family: var(--font-intel);
   mix-blend-mode: hard-light;
-  color: rgba(0, 0, 0, 1); 
+  color: rgba(0, 0, 0, 1);
   text-shadow: -1px 0 #fff, 0 1px #fff, 1px 0 #fff, 0 -1px #fff;
 }
 
