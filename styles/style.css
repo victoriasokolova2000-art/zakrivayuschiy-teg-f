@@ -336,7 +336,7 @@
   filter: brightness(50%);
 }
 
-.img_sepia_blur{
+.img_sepia_blur {
   filter: sepia(300%) blur(1.2rem);
 }
 
