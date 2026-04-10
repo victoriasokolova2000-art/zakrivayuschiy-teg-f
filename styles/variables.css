@@ -1,6 +1,6 @@
 :root {
-  --font-intel: 'PressStart2P-Regular';
-  --font-PressStart: 'Intel-Variable';
+  --font-intel: 'Intel-Variable';
+  --font-PressStart: 'PressStart2P';
   --wght: 410;
   --bg-gradient: repeating-linear-gradient(0deg, #d3d3d3 0px, #d3d3d3 2px, transparent 2px, transparent 4px),
   repeating-linear-gradient(90deg, #d3d3d3 0px, #d3d3d3 2px, transparent 2px, transparent 4px),
