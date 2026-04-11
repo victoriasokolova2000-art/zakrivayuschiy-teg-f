@@ -240,7 +240,13 @@
 .floppy {
   width: 28px;
   height: 28px;
+  fill: var(--color-white);
   mix-blend-mode: difference;
+}
+
+.floppy use{
+  inline-size: 100%;
+  block-size: 100%;
 }
 
 .window {
